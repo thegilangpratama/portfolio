@@ -1,0 +1,68 @@
+[
+    {
+      "title": "Super Duper Secret Awesome AI Application by Snowheap",
+      "associatedWith": "Snowheap",
+      "date": "Dec 2023 - Present",
+      "description": "As a Fullstack Software Engineer, I architect and develop robust solutions for the Super Duper Secret Awesome AI Application. My focus is on ensuring a cohesive and high-performing application that seamlessly integrates frontend and backend components."
+    },
+    {
+      "title": "Life by IFG Web Platform",
+      "associatedWith": "IFG Life",
+      "date": "Sep 2023 - Nov 2023",
+      "description": "Responsible for driving user adoption and interaction, I optimize sales strategies and craft engaging initiatives for the Life by IFG Web Platform. My goal is to enhance the platform's appeal and ensure a dynamic user experience."
+    },
+    {
+      "title": "Life by IFG on App Store and Google Play Store",
+      "associatedWith": "IFG Life",
+      "date": "Oct 2023 - Nov 2023",
+      "description": "Contributing to sales and engagement, I enhance the appeal of the Life by IFG app on App Store and Google Play Store. My role involves optimizing sales strategies and fostering user participation for a compelling user experience."
+    },
+    {
+      "title": "Booking PWA",
+      "associatedWith": "CPR Vision Management",
+      "date": "Jan 2022 - Aug 2023",
+      "description": "As a contributor, I develop a One Stop Booking Solution with Progressive Web App support. Integrated with CRM and Payment Gateway, it's used by renowned brands globally."
+    },
+    {
+      "title": "DPC NX/IS",
+      "associatedWith": "CPR Vision Management",
+      "date": "Jan 2022 - Aug 2023",
+      "description": "Contributing to the development, I create a Digital Profile Card for online and in-store use. This next-generation solution enhances customer engagement and convenience."
+    },
+    {
+      "title": "Heineken Music Festival Campaign Platform",
+      "associatedWith": "CPR Vision Management",
+      "date": "Oct 2022 - Oct 2022",
+      "description": "As a lead contributor, I develop a campaign platform for Heineken Laos 2022 Music Festival. This platform enhances engagement and promotes the festival effectively."
+    },
+    {
+      "title": "William Grants and Sons Campaign Platform",
+      "associatedWith": "CPR Vision Management",
+      "date": "Sep 2022 - Oct 2022",
+      "description": "As a contributor, I develop a platform campaign for William Grants and Sons. The platform effectively promotes the brand's campaign."
+    },
+    {
+      "title": "Booking NX",
+      "associatedWith": "CPR Vision Management",
+      "date": "Jan 2021 - Sep 2022",
+      "description": "Contributing to the development, I create a one-stop Booking Solution integrated with CRM and Payment Gateway. Widely used by renowned brands worldwide."
+    },
+    {
+      "title": "Booking NX Integration with CRM",
+      "associatedWith": "CPR Vision Management",
+      "date": "Aug 2022 - Sep 2022",
+      "description": "Leading the integration, I connect Booking NX with CRMXS Feature. This integration enhances functionality and improves user experience."
+    },
+    {
+      "title": "Lazada DPC",
+      "associatedWith": "CPR Vision Management",
+      "date": "Jan 2022 - Apr 2022",
+      "description": "As a contributor, I develop a Digital Profile Card for Lazada eCommerce. This solution enhances customer engagement and convenience."
+    },
+    {
+      "title": "Feasibility Study on The Application Of Online Platform Based On GIS in Public Transportation in Pekanbaru",
+      "associatedWith": "Lancang Kuning University",
+      "date": "Sep 2017 - Feb 2018",
+      "description": "Conducted a feasibility study on the application of an online platform based on GIS in Public Transportation in Pekanbaru. The study evaluates the effectiveness of GIS in optimizing public transportation."
+    }
+]
